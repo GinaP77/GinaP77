@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Gina Polus  
 ### *Cybersecurity Student | IT Support | Network Security | Incident Response*
 
-I’m a cybersecurity student currently completing my **Associates in Information Technology (Network Security)** at **Macomb Community College**, with plans to begin my **Bachelor’s in Cybersecurity in 2025**.  
+I’m a cybersecurity student currently completing my **Associates in Information Technology (Network Security)** at **Macomb Community College**, with plans to begin my **Bachelor’s in Cybersecurity in 2026**.  
 I’m focused on building strong foundational skills in IT and security concepts through hands-on projects, labs, and coursework.
 
-💼 **Actively seeking a Cybersecurity or IT Support Internship for 2025**  
+💼 **Actively seeking a Cybersecurity or IT Support Internship for 2025/2026**  
 🎯 My goal: Graduate with industry experience and transition into a full-time role in cybersecurity.
 
 ---
